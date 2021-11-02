@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Khlyzova_Valeria_PRI_117_lab_03/1.0.0": {
+        "runtime": {
+          "Khlyzova_Valeria_PRI_117_lab_03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Khlyzova_Valeria_PRI_117_lab_03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
